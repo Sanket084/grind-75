@@ -1,2 +1,4 @@
-# grind-75
-Grind 75 - Customize LeetCode study plans according to your needs. 
+# Grind 75
+## A better Blind 75 you can customize, by the author of Blind 75 
+
+Customized LeetCode study plans tailored to my needs, scheduled with 8 weeks’ worth of problems, providing 8 hours of study per week.
